@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @Date: 16:17 2019/6/26
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 测试分配担保开关打开和关上的情况
  */
 public class TestHandlePromotionFailure {

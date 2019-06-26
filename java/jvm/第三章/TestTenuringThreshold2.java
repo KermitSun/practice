@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @Date: 15:53 2019/6/26
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 测试动态对象年龄判定
  */
 public class TestTenuringThreshold2 {

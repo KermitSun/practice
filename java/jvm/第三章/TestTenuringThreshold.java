@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @Date: 15:36 2019/6/26
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 测试-XX:MaxTenuringThreshold = 1 和 15 时候gc的区别
  * -XX:MaxTenuringThreshold 标识age为多少时候进入老年代
  */

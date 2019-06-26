@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @Date: 15:20 2019/6/26
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 测试超过-XX:PretenureSizeThreshold的值直接进入老年代
  * -XX:PretenureSizeThreshold=3145728 指定超过3MB的对象直接进入老年代
  */
