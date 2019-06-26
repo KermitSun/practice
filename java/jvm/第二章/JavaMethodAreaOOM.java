@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * @Date: 11:47 2019/6/14
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 借助CGlib创建对象致使方法区出现OOM
  */
 public class JavaMethodAreaOOM {

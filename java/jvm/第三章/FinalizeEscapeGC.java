@@ -2,7 +2,7 @@ package jvm.第三章;
 
 /**
  * @Date: 16:44 2019/6/20
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 此代码展示了两点
  * 1.对象可以在GC时候被回收
  * 2.这种自救只会成功一次，因为一个对象的finalize()只会被系统自动调用一次

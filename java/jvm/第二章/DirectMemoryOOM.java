@@ -6,7 +6,7 @@ import java.lang.reflect.Field;
 
 /**
  * @Date: 11:59 2019/6/20
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 本机内存直接溢出
  */
 public class DirectMemoryOOM {

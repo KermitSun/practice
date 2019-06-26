@@ -2,7 +2,7 @@ package jvm.第二章;
 
 /**
  * @Date: 11:14 2019/6/13
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 创建线程导致内存溢出
  * Java的线程在操作系统内核上工作，该代码可能会导致系统死机
  */

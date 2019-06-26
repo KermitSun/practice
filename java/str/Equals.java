@@ -2,7 +2,7 @@ package str;
 
 /**
  * @Date: 10:55 2019/6/14
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description:
  */
 public class Equals {

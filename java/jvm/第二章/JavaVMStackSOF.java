@@ -2,7 +2,7 @@ package jvm.第二章;
 
 /**
  * @Date: 10:42 2019/6/13
- * @Author: BoyuSun
+ * @Author: Kermit Sun
  * @Description: 虚拟机栈和本地方发栈OOM测试
  */
 public class JavaVMStackSOF {
