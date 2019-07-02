@@ -1,4 +1,4 @@
-package jvm.第三章;
+package jvm.chapter_03;
 
 import org.junit.jupiter.api.Test;
 

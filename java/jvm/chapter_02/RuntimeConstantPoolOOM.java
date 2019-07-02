@@ -1,4 +1,4 @@
-package jvm.第二章;
+package jvm.chapter_02;
 
 import java.util.ArrayList;
 

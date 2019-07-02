@@ -1,4 +1,4 @@
-package jvm.第二章;
+package jvm.chapter_02;
 
 /**
  * @Date: 11:14 2019/6/13

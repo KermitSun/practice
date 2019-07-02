@@ -1,4 +1,4 @@
-package jvm.第二章;
+package jvm.chapter_02;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
